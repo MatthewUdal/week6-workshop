@@ -1,0 +1,12 @@
+.container {
+    max-width: 500px;
+}
+
+input.form-control, button.btn {
+    width: 100%;
+}
+
+ul.list-unstyled {
+    max-height: 400px;
+    overflow-y: auto;
+}
